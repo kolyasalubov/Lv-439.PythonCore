@@ -1,19 +1,9 @@
 ﻿1 Beautiful is better than ugly.
 2 Explicit is better than implicit.
-<<<<<<< HEAD
-3 Complex is better than complicated.
-4
-<<<<<<< HEAD
-5 Flat is better than nested
-6
-=======
-=======
-3 Simple is better than complex.
-4 Complex is better than complicated.
->>>>>>> 6b64bfe86857c4caeb994e9da11b2d042b17f536
+3 Simple is better than complex
+4 Complex is better than complicated
 5
 6 Sparse is better than dense.
->>>>>>> a9149d370e5144dda684897fadba6d13e44c82b1
 7
 8. Special cases aren't special enough to break the rules.
 9

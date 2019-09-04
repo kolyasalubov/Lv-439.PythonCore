@@ -1,8 +1,6 @@
 1 Beautiful is better than ugly.
-2
-2
-3 Simple is better than complex.
 2 Explicit is better than implicit.
+3 Simple is better than complex.
 4
 5
 6

@@ -1,4 +1,3 @@
-Hello
 1
 2 Explicit is better than implicit.
 3
@@ -11,7 +10,7 @@ Hello
 10
 11
 12
-13
+13. There should be one-- and preferably only one --obvious way to do it.
 14
 15
 16

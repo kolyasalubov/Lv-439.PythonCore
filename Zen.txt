@@ -1,9 +1,14 @@
+<<<<<<< HEAD
+1 Beautiful is better than ugly.
+2
+=======
 1
 <<<<<<< HEAD
 2
 3 Simple is better than complex.
 =======
 2 Explicit is better than implicit.
+>>>>>>> 2ab38e0c6c52f95803cbfe558dab7f9993c6b871
 3
 >>>>>>> 2ab38e0c6c52f95803cbfe558dab7f9993c6b871
 4

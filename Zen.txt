@@ -4,8 +4,8 @@
 4 Complex is better than complicated
 5 Flat is better than nested
 6 Sparse is better than dense.
-7
-8. Special cases aren't special enough to break the rules.
+7 Readability counts.
+8
 9
 10
 11

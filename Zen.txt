@@ -12,6 +12,7 @@
 12. In the face of ambiguity, refuse the temptation to guess.
 13. There should be one-- and preferably only one --obvious way to do it.
 15. Now is better than never.
+18. If the implementation is easy to explain, it may be a good idea
 21. I don't know what must be in here:)
 22. I don't know what must be in here too))
 26. Just left it here :)

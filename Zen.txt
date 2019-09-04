@@ -1,8 +1,8 @@
-1 Beautiful is better than ugly.
+﻿1 Beautiful is better than ugly.
 2 Explicit is better than implicit.
 3 Complex is better than complicated.
 4
-5
+5 Flat is better than nested
 6 Sparse is better than dense.
 7 Readability counts.
 8

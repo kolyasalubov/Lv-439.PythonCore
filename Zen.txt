@@ -1,8 +1,21 @@
-Hello
-1
+<<<<<<< HEAD
+1 Beautiful is better than ugly.
 2
+=======
+1
+<<<<<<< HEAD
+2
+3 Simple is better than complex.
+=======
+2 Explicit is better than implicit.
+>>>>>>> 2ab38e0c6c52f95803cbfe558dab7f9993c6b871
 3
+<<<<<<< HEAD
 4. Complex is better than complicated
+=======
+>>>>>>> 2ab38e0c6c52f95803cbfe558dab7f9993c6b871
+4
+>>>>>>> 7b4eb8f1e3c309e136852b237f67407a514b7be4
 5
 6
 7
@@ -10,8 +23,8 @@ Hello
 9
 10
 11
-12
-13
+12. In the face of ambiguity, refuse the temptation to guess.
+13. There should be one-- and preferably only one --obvious way to do it.
 14
 15
 16

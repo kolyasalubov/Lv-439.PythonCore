@@ -1,20 +1,3 @@
-<<<<<<< HEAD
-﻿
-=======
-<<<<<<< HEAD
-﻿1 Beautiful is better than ugly.
-2 Explicit is better than implicit.
-3 Simple is better than complex
-4 Complex is better than complicated
-5 Flat is better than nested
-6 Sparse is better than dense.
-7 Readability counts.
-8
-9
-10 Errors should never pass silently.
-11
-=======
->>>>>>> master
 ﻿1. Beautiful is better than ugly.
 2. Explicit is better than implicit.
 3. Simple is better than complex.
@@ -26,10 +9,6 @@
 9. Although practicality beats purity.
 10. Errors should never pass silently.
 11. Unless explicitly silenced.
-<<<<<<< HEAD
-=======
->>>>>>> 6646d163d51412b38070f5f9391c504772f8c4b9
->>>>>>> master
 12. In the face of ambiguity, refuse the temptation to guess.
 13. There should be one-- and preferably only one --obvious way to do it.
 18. If the implementation is easy to explain, it may be a good idea

@@ -1,19 +1,15 @@
-<<<<<<< HEAD
 1 Beautiful is better than ugly.
-2
-=======
-1
-<<<<<<< HEAD
-2
-3 Simple is better than complex.
-=======
 2 Explicit is better than implicit.
+<<<<<<< HEAD
 >>>>>>> 2ab38e0c6c52f95803cbfe558dab7f9993c6b871
 3
 <<<<<<< HEAD
 4. Complex is better than complicated
 =======
 >>>>>>> 2ab38e0c6c52f95803cbfe558dab7f9993c6b871
+=======
+3 
+>>>>>>> a298f12eeffa5195ff50e21c2b8056ed026c76b0
 4
 >>>>>>> 7b4eb8f1e3c309e136852b237f67407a514b7be4
 5

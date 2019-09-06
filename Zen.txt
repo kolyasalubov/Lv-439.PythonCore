@@ -14,9 +14,13 @@
 15. Now is better than never.
 16. My text.)))))
 18. If the implementation is easy to explain, it may be a good idea
-20. ok.
+20. Explicit is better than implicit.
 21. I don't know what must be in here:)
 22. I don't know what must be in here too))
 25. Pavlo was here)))) 
 26. Just left it here :)
+	For those who don't know what should be there: 
+	if you've run out of Zen rules on the slide, 
+	start from the first one all over again, in a circle fashion))) 	
+	And who filled in No.14 instead of me?
 

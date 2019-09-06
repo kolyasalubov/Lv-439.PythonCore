@@ -11,6 +11,7 @@
 11. Unless explicitly silenced.
 12. In the face of ambiguity, refuse the temptation to guess.
 13. There should be one-- and preferably only one --obvious way to do it.
+14. Although that way may not be obvious at first unless you're Dutch.
 15. Now is better than never.
 16. My text.)))))
 18. If the implementation is easy to explain, it may be a good idea
@@ -22,5 +23,5 @@
 	For those who don't know what should be there: 
 	if you've run out of Zen rules on the slide, 
 	start from the first one all over again, in a circle fashion))) 	
-	And who filled in No.14 instead of me?
+	
 

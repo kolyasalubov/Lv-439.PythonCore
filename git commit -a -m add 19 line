@@ -1,0 +1,715 @@
+[33mcommit 96bf64e0513447f47644b021e27e086ac7631b6e[m[33m ([m[1;36mHEAD -> [m[1;32mlilia_piontyk[m[33m)[m
+Merge: babb739 10f48cf
+Author: “Lilia <pyontiklilia98@gmail.com>
+Date:   Wed Sep 11 11:30:13 2019 +0300
+
+    resolve conflict
+
+[33mcommit 10f48cf24c04f091c102ea976f25f7874c7572b8[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Olesia Falafivka <olesyasenyk@hotmail.com>
+Date:   Wed Sep 11 10:47:52 2019 +0300
+
+    added line 14
+
+[33mcommit a44c0578af4063e17522a76c67dd7d61a77be64a[m
+Author: bkashyrskyi <bohdan.k@bkashyrskyi.local>
+Date:   Wed Sep 11 08:50:12 2019 +0300
+
+    changed line 1
+
+[33mcommit a9e59b729b4b27c35e19614404c3a52d5e980776[m
+Author: bkashyrskyi <bohdan.k@bkashyrskyi.local>
+Date:   Wed Sep 11 08:48:26 2019 +0300
+
+    another one change in line 14
+
+[33mcommit 169972df5638f4ada8be090e8ccbf00de596b036[m
+Author: bkashyrskyi <bohdan.k@bkashyrskyi.local>
+Date:   Wed Sep 11 08:47:44 2019 +0300
+
+    another one change in line 14
+
+[33mcommit 379ab0796b49ad78cf58eff0261b28f39639298c[m
+Merge: 0efb88f 6ef8a37
+Author: bkashyrskyi <bohdan.k@bkashyrskyi.local>
+Date:   Wed Sep 11 08:44:36 2019 +0300
+
+    Merge branch 'master' of https://github.com/kolyasalubov/Lv-439.PythonCore
+
+[33mcommit 0efb88f9df11d014829bc8d34c785fda31d3eb22[m
+Author: bkashyrskyi <bohdan.k@bkashyrskyi.local>
+Date:   Wed Sep 11 08:36:53 2019 +0300
+
+    changed line 14
+
+[33mcommit 6ef8a3759b27ca93b8acd79f4898eaeee5840227[m
+Author: Paavlo <pavlo.com.5@gmail.com>
+Date:   Wed Sep 11 00:40:00 2019 +0300
+
+    added my number   25
+
+[33mcommit a2102319920df8bffc21e3f5bab92cb5502e6e5c[m
+Author: Dmytro Kopytov <dmytrokopytov@gmail.com>
+Date:   Tue Sep 10 22:19:35 2019 +0300
+
+    Add 18 for 14 line
+
+[33mcommit e7aeccd2195184a881944aa7f5ebd92228c3175b[m
+Merge: 9fabc1f 432fb64
+Author: Andrii Piddubchyshyn <andrii.piddubchyshyn@gmail.com>
+Date:   Tue Sep 10 08:34:04 2019 +0300
+
+    resolve conflict between my branch and master
+
+[33mcommit babb73965cc21ffdffb2ab3692900836c902b917[m[33m ([m[1;31morigin/lilia_piontyk[m[33m, [m[1;32mmaster[m[33m)[m
+Author: “Lilia <pyontiklilia98@gmail.com>
+Date:   Mon Sep 9 23:20:30 2019 +0300
+
+    add 19 zen
+
+[33mcommit 5c353967cf4926e01de308167e00c875c04ce602[m
+Author: “Lilia <pyontiklilia98@gmail.com>
+Date:   Mon Sep 9 22:55:30 2019 +0300
+
+    add 19 into 14 line
+
+[33mcommit 9fabc1ffffe63c4f02fd38a136138769e7323b0c[m
+Author: Rostyslav Medvid <rostuk.medvid@gmail.com>
+Date:   Mon Sep 9 21:41:10 2019 +0300
+
+    home_task
+
+[33mcommit ad0feeae127cf15b60d53315f4f1c113774fc12d[m
+Author: Rostyslav Medvid <rostuk.medvid@gmail.com>
+Date:   Mon Sep 9 21:34:34 2019 +0300
+
+    home _task
+
+[33mcommit ae111fd1d34f2f8d8bbc4e8216127f71fa00a5e8[m
+Merge: ddde903 97b33be
+Author: Rostyslav Medvid <rostuk.medvid@gmail.com>
+Date:   Sun Sep 8 19:41:21 2019 +0300
+
+    14
+
+[33mcommit ddde90339dd71b69c05bc2a4e1469700f0eff7d5[m
+Author: Rostyslav Medvid <rostuk.medvid@gmail.com>
+Date:   Sun Sep 8 19:36:03 2019 +0300
+
+    14
+
+[33mcommit 432fb64f66ef7549d8d06f97550284fdfde4721b[m
+Author: Andrii Piddubchyshyn <andrii.piddubchyshyn@gmail.com>
+Date:   Sat Sep 7 20:20:41 2019 +0300
+
+    create new branch - andrii_piddubchyshyn
+
+[33mcommit 97b33be6ae1546aa945d43d7b889f84ecce38c65[m
+Author: Iryna Vaskiv <>
+Date:   Fri Sep 6 12:18:35 2019 +0300
+
+    hometask_20number
+
+[33mcommit c40d4cd234b69fc1879ae860a57abda93d09378a[m[33m ([m[1;31morigin/olesyasenyk[m[33m)[m
+Author: Olesia Falafivka <olesyasenyk@hotmail.com>
+Date:   Fri Sep 6 11:44:18 2019 +0300
+
+    added empty numbered lines
+
+[33mcommit afff75b95e3b6878fad78d1b7e940d6b605eb0ac[m
+Author: Olesia Falafivka <olesyasenyk@hotmail.com>
+Date:   Fri Sep 6 11:37:00 2019 +0300
+
+    corrected
+
+[33mcommit 5d46a39134fbee269fd69f55e22067c5ee5aced7[m
+Author: Olesia Falafivka <olesyasenyk@hotmail.com>
+Date:   Fri Sep 6 11:33:59 2019 +0300
+
+    added some comments
+
+[33mcommit 07cb19d0a07437ca3fd91d944bc2b799e796e1d4[m
+Author: shellbass <zubachyktm@gmail.com>
+Date:   Thu Sep 5 20:17:53 2019 +0300
+
+    Resolved
+
+[33mcommit 71d068bdec74009208a061aa03bfd9a865fb861f[m
+Merge: 99f437d c87c932
+Author: shellbass <zubachyktm@gmail.com>
+Date:   Thu Sep 5 20:10:49 2019 +0300
+
+    Merge branch 'Zubachyk_T'
+
+[33mcommit 99f437df0c040482c4c35af07f7410d851b29473[m
+Merge: 343573c a389245
+Author: RomanSurma <roman.surm@gmail.com>
+Date:   Thu Sep 5 16:38:52 2019 +0300
+
+    clean line 28
+
+[33mcommit 343573cad47c7f616890a0555f6bb382465f972c[m
+Author: RomanSurma <roman.surm@gmail.com>
+Date:   Thu Sep 5 16:32:59 2019 +0300
+
+    edit line 28
+
+[33mcommit a389245c7f33ebd440c4074e900eb504d7593a6a[m
+Author: Paavlo <pavlo.com.5@gmail.com>
+Date:   Thu Sep 5 16:31:57 2019 +0300
+
+    edited line 28
+
+[33mcommit 6ea976a15f88bc0610d1480efa6fcdc9cc5a0322[m
+Author: Paavlo <pavlo.com.5@gmail.com>
+Date:   Thu Sep 5 16:24:01 2019 +0300
+
+    conflict for surma
+
+[33mcommit 0c532aef3e5255ea38a5faca537820a5712e5d55[m
+Author: RomanSurma <roman.surm@gmail.com>
+Date:   Thu Sep 5 16:05:59 2019 +0300
+
+    add line 14
+
+[33mcommit 34648eec7a793ceb8066141658ac18803f0aa0ff[m
+Author: Paavlo <pavlo.com.5@gmail.com>
+Date:   Thu Sep 5 15:34:25 2019 +0300
+
+    add my line 25
+
+[33mcommit c87c932a2dade1826105459a16c3608fb8f2a4b8[m
+Author: shellbass <zubachyktm@gmail.com>
+Date:   Thu Sep 5 15:18:46 2019 +0300
+
+    added 16 line 1
+
+[33mcommit f2fb05313024b9c7638a50291105f38807d19aec[m
+Merge: caf6c12 6a9ad85
+Author: shellbass <zubachyktm@gmail.com>
+Date:   Thu Sep 5 15:18:13 2019 +0300
+
+    Merge branch 'master' of https://github.com/kolyasalubov/Lv-439.PythonCore into Zubachyk_Taras
+
+[33mcommit 6a9ad85a0927d3feb4de30f2faf1aa5d306a7d53[m
+Merge: ab0b155 9d0c4e1
+Author: Vasyl0206 <54906130+Vasyl0206@users.noreply.github.com>
+Date:   Thu Sep 5 15:08:13 2019 +0300
+
+    Merge pull request #1 from kolyasalubov/Vasyl0206
+    
+    add 20 line
+
+[33mcommit 9d0c4e1032da39e51cdcfe9c0785abbd5ba211ea[m
+Author: Vasyl0206 <diachok87@gmail.com>
+Date:   Thu Sep 5 14:25:07 2019 +0300
+
+    add 20 line
+
+[33mcommit caf6c1262cc3fc5fd2bcd917fed4f3739745168c[m
+Author: shellbass <zubachyktm@gmail.com>
+Date:   Thu Sep 5 03:39:20 2019 +0300
+
+    added 16 line)
+
+[33mcommit b562bc6b92270c3734ac215d171017e1114205ee[m
+Author: shellbass <zubachyktm@gmail.com>
+Date:   Thu Sep 5 03:27:26 2019 +0300
+
+    Added 16 line
+
+[33mcommit 16dfa7f1e6f665e0ffc37a43a6a874c9b5bd7558[m
+Author: shellbass <zubachyktm@gmail.com>
+Date:   Thu Sep 5 02:54:33 2019 +0300
+
+    added 16 line
+
+[33mcommit ab0b155a9d7276c07120fe4299c2c20df42b32f4[m
+Merge: 50b305c 30c7817
+Author: Orest Kuzymkiv <orest000@gmail.com>
+Date:   Thu Sep 5 01:26:56 2019 +0300
+
+    Now is better than never. 15 resolvedV2"
+
+[33mcommit 50b305c34b2736b17e3c0e7824a124e6ee926152[m
+Author: Orest Kuzymkiv <orest000@gmail.com>
+Date:   Thu Sep 5 01:15:24 2019 +0300
+
+    Now is better than never. 15"
+
+[33mcommit 30c7817937b0ed9e1ce2d7d267367cf3cef2f418[m
+Author: Dmytro Kopytov <dmytrokopytov@gmail.com>
+Date:   Thu Sep 5 00:55:32 2019 +0300
+
+    Add If the implementation is easy to explain, it may be a good idea
+
+[33mcommit cb5370fa57d523fbcdc2700cb635651b45576c4c[m
+Merge: f60b65d a886079
+Author: Dmytro Kopytov <dmytrokopytov@gmail.com>
+Date:   Thu Sep 5 00:47:49 2019 +0300
+
+    Add 18. If the implementation is easy to explain, it may be a good idea
+
+[33mcommit f60b65d4ca211dd67e6bdb78c3f353ae182db2a5[m
+Author: Dmytro Kopytov <dmytrokopytov@gmail.com>
+Date:   Thu Sep 5 00:45:33 2019 +0300
+
+    Add 18. If the implementation is easy to explain, it may be a good idea
+
+[33mcommit b0ce6afbb865b43af06cc722d451d8191cf5e068[m
+Merge: d7856e7 6646d16
+Author: Dmytro Kopytov <dmytrokopytov@gmail.com>
+Date:   Thu Sep 5 00:44:05 2019 +0300
+
+    add If the implementation is easy to explain, it may be a good idea
+
+[33mcommit a8860797825dd01135714403208037ee388b3752[m
+Merge: d7856e7 6646d16
+Author: Dmytro Kopytov <dmytrokopytov@gmail.com>
+Date:   Thu Sep 5 00:36:13 2019 +0300
+
+    resolve
+
+[33mcommit d7856e785b5e6f6cb775eecd1314e242d48835d7[m
+Merge: 001c5ec 86d3a65
+Author: Dmytro Kopytov <dmytrokopytov@gmail.com>
+Date:   Thu Sep 5 00:32:07 2019 +0300
+
+    create branch
+
+[33mcommit 6646d163d51412b38070f5f9391c504772f8c4b9[m
+Author: OlexandrSkomarovsky <olex79if@gmila.com>
+Date:   Wed Sep 4 23:25:12 2019 +0300
+
+    new line 22
+
+[33mcommit 406c4e85d0cd10aa99271d603c1e24a19f0aa2b5[m
+Merge: 4d52d77 7bae468
+Author: Rostyslav Medvid <rostuk.medvid@gmail.com>
+Date:   Wed Sep 4 22:35:36 2019 +0300
+
+    21
+
+[33mcommit 7bae4682f1dd9335b61cc7082887cb2a946bb094[m
+Author: Rostyslav Medvid <rostuk.medvid@gmail.com>
+Date:   Wed Sep 4 22:33:05 2019 +0300
+
+    26
+
+[33mcommit 5b83c87a30af7378a3b240220fc689a096871bef[m
+Author: Rostyslav Medvid <rostuk.medvid@gmail.com>
+Date:   Wed Sep 4 22:12:04 2019 +0300
+
+    21
+
+[33mcommit 4d52d7727d9900914480d82a37e5f224b7405079[m
+Author: bkashyrskyi <bohdan.k@bkashyrskyi.local>
+Date:   Wed Sep 4 21:36:36 2019 +0300
+
+    Added ., deleted 14-16 lines and added 26 line and some more little changes
+
+[33mcommit d12755cb9656044e7d74a3fc2728d73217036ef5[m
+Author: bkashyrskyi <bohdan.k@bkashyrskyi.local>
+Date:   Wed Sep 4 21:29:54 2019 +0300
+
+    returned back some changes
+
+[33mcommit c04ecca0510758527e3c7d84906b33ad59749167[m
+Merge: 688163d 04c58f4
+Author: bkashyrskyi <bohdan.k@bkashyrskyi.local>
+Date:   Wed Sep 4 21:26:20 2019 +0300
+
+    some changes
+
+[33mcommit 688163da5e6e67ddcca7d1c59ab1fd2211292692[m
+Author: bkashyrskyi <bohdan.k@bkashyrskyi.local>
+Date:   Wed Sep 4 21:24:39 2019 +0300
+
+    Added . and deleted empty lines
+
+[33mcommit 04c58f4fdc090f234b5d5d89b95787712cf749c5[m
+Merge: d5f8c72 b003e04
+Author: OlexandrSkomarovsky <olex79if@gmail.com>
+Date:   Wed Sep 4 20:34:59 2019 +0300
+
+    9
+
+[33mcommit d5f8c72ab2e838c7d01ec69314ebc2658204cd24[m
+Author: OlexandrSkomarovsky <olex79if@gmail.com>
+Date:   Wed Sep 4 20:32:25 2019 +0300
+
+    9
+
+[33mcommit b003e042ea1961f428ebf89a7c78e64d39af5d46[m
+Merge: ff2845e 203a9fb
+Author: Orest Kuzymkiv <orest000@gmail.com>
+Date:   Wed Sep 4 20:28:27 2019 +0300
+
+    Merge branch 'master' of https://github.com/kolyasalubov/Lv-439.PythonCore
+
+[33mcommit ff2845eaff253b74485fa1a500528a14db77c764[m
+Author: Orest Kuzymkiv <orest000@gmail.com>
+Date:   Wed Sep 4 20:28:22 2019 +0300
+
+    new line 11 Unless explicitly silenced."
+
+[33mcommit 203a9fbb761a0478650d3cbf65ab10339a340630[m
+Merge: 9e4470b 24c5b65
+Author: Olesia Falafivka <olesyasenyk@hotmail.com>
+Date:   Wed Sep 4 20:27:41 2019 +0300
+
+    Merge branch 'master' of https://github.com/kolyasalubov/Lv-439.PythonCore
+
+[33mcommit 9e4470b7b06ba2724fe30f23c2f43119a2a9d67e[m
+Author: Olesia Falafivka <olesyasenyk@hotmail.com>
+Date:   Wed Sep 4 20:27:35 2019 +0300
+
+    added 11
+
+[33mcommit 24c5b65854f3c4df6735cf8600757d86beaa2d4d[m
+Author: Rostyslav Medvid <rostuk.medvid@gmail.com>
+Date:   Wed Sep 4 20:26:11 2019 +0300
+
+    8
+
+[33mcommit 6fefe4be59c49de96cba9dcd961562e5430ddcf1[m
+Author: Denys Fedorovych <d.Fedorovych@gmail.com>
+Date:   Wed Sep 4 20:23:27 2019 +0300
+
+    resolved
+
+[33mcommit 7a7ea028a9780adbdbcdd4933bdff9509617b894[m
+Merge: d866c02 86d3a65
+Author: Rostyslav Medvid <rostuk.medvid@gmail.com>
+Date:   Wed Sep 4 20:22:58 2019 +0300
+
+    Merge branch 'master' of https://github.com/kolyasalubov/Lv-439.PythonCore into Medvid_Rostyslav
+
+[33mcommit d866c0224795fa23ce519f588f4d4c9e557e4d8c[m
+Author: Rostyslav Medvid <rostuk.medvid@gmail.com>
+Date:   Wed Sep 4 20:22:42 2019 +0300
+
+    8
+
+[33mcommit 001c5ec95096c5026f45eddb9a18fd61111716e1[m
+Merge: e47ff87 2fd606d
+Author: Dmytro Kopytov <dmytrokopytov@gmail.com>
+Date:   Wed Sep 4 20:21:19 2019 +0300
+
+    add Flat is better than nested
+
+[33mcommit 86d3a65e28c25e1cdb5d44ceb99eb6d9a6031864[m
+Merge: 2d817ed 2fd606d
+Author: Iryna <irynavaskiv875@gmail.com>
+Date:   Wed Sep 4 20:20:20 2019 +0300
+
+    Merge branch 'master' of https://github.com/kolyasalubov/Lv-439.PythonCore
+
+[33mcommit e47ff87f05563794dd586c0562d0a9fc9eece6e2[m
+Author: Dmytro Kopytov <dmytrokopytov@gmail.com>
+Date:   Wed Sep 4 20:19:44 2019 +0300
+
+    add Flat is better than nested
+
+[33mcommit 2d817ed4a4cc60e8e4ec768b2935b1b2eff54a22[m
+Author: Iryna <irynavaskiv875@gmail.com>
+Date:   Wed Sep 4 20:19:25 2019 +0300
+
+    ira
+
+[33mcommit 2fd606d7e89efcf1d362db5d86f5baef010097ed[m
+Merge: 3024fa5 c5f9d9b
+Author: Vasyl Diachok <vdiactc@training.local>
+Date:   Wed Sep 4 20:18:25 2019 +0300
+
+    resol conflict2 and add 7 line
+
+[33mcommit 3024fa5b5e20eb83cbe42ba4a86739d9e7410535[m
+Merge: d1e65de 041a0e2
+Author: Vasyl Diachok <vdiactc@training.local>
+Date:   Wed Sep 4 20:15:05 2019 +0300
+
+    resol conflict2 and add 7 line
+
+[33mcommit c5f9d9bf7a43e98a1811d76faed601f77828534c[m
+Merge: 6f6763e 041a0e2
+Author: Rostyslav Medvid <rostuk.medvid@gmail.com>
+Date:   Wed Sep 4 20:12:26 2019 +0300
+
+    Merge branch 'master' of https://github.com/kolyasalubov/Lv-439.PythonCore
+
+[33mcommit 041a0e2ae268cb6906fb32ef5eed1abe4e1bd56b[m
+Merge: aee14c1 d0d2017
+Author: Denys Fedorovych <d.Fedorovych@gmail.com>
+Date:   Wed Sep 4 20:10:41 2019 +0300
+
+    resolved
+
+[33mcommit d1e65de2c76605461a415205e5dd4416911ac4a0[m
+Merge: 6fa8a8c d0d2017
+Author: Vasyl Diachok <vdiactc@training.local>
+Date:   Wed Sep 4 20:09:31 2019 +0300
+
+    resol conflict2 and add 7 line
+
+[33mcommit 6f6763e3e850fb162454ba7bf0195f57d2fec078[m
+Merge: 730366f d0d2017
+Author: Rostyslav Medvid <rostuk.medvid@gmail.com>
+Date:   Wed Sep 4 20:09:22 2019 +0300
+
+    Merge branch 'master' of https://github.com/kolyasalubov/Lv-439.PythonCore
+
+[33mcommit aee14c1d78a8230e19d9b1990f3eaf46f4841f2c[m
+Merge: 132c05f 6b64bfe
+Author: Denys Fedorovych <d.Fedorovych@gmail.com>
+Date:   Wed Sep 4 20:08:14 2019 +0300
+
+    Add line 4
+
+[33mcommit 6fa8a8c69d6885f59210d34046bbb75ce02d7a1e[m
+Merge: a71150d a9149d3
+Author: Vasyl Diachok <vdiactc@training.local>
+Date:   Wed Sep 4 20:08:10 2019 +0300
+
+    resol conflict and add 7 line
+
+[33mcommit d0d2017324c82a2ce644a39a8efa80817cab68c4[m
+Merge: ba175f4 6b64bfe
+Author: Dmytro Kopytov <dmytrokopytov@gmail.com>
+Date:   Wed Sep 4 20:07:38 2019 +0300
+
+    Add Flat is better than nested, agen
+
+[33mcommit 132c05fc6dcfcb7d9a89dcc0ba243f0c4c300fa0[m
+Merge: afdf895 a9149d3
+Author: Denys Fedorovych <d.Fedorovych@gmail.com>
+Date:   Wed Sep 4 20:07:06 2019 +0300
+
+    Added line 4
+
+[33mcommit 730366f06d97a82154e2dfed3b82a41d9397c992[m
+Merge: 5810a63 6b64bfe
+Author: Rostyslav Medvid <rostuk.medvid@gmail.com>
+Date:   Wed Sep 4 20:06:43 2019 +0300
+
+    Merge branch 'master' of https://github.com/kolyasalubov/Lv-439.PythonCore
+
+[33mcommit ba175f498f086eb1b2b9a22d056113475dcb69c9[m
+Merge: 69f4514 a9149d3
+Author: Dmytro Kopytov <dmytrokopytov@gmail.com>
+Date:   Wed Sep 4 20:06:21 2019 +0300
+
+    Add Flat is better than nested
+
+[33mcommit 6b64bfe86857c4caeb994e9da11b2d042b17f536[m
+Merge: 58638b3 a9149d3
+Author: Olesia Falafivka <olesyasenyk@hotmail.com>
+Date:   Wed Sep 4 20:05:10 2019 +0300
+
+    resolved conflict
+
+[33mcommit afdf895661ecfeeead76dad799ba874fe0741cb6[m
+Merge: 835895d a298f12
+Author: Denys Fedorovych <d.Fedorovych@gmail.com>
+Date:   Wed Sep 4 20:04:46 2019 +0300
+
+    Add line 4
+
+[33mcommit a71150d34810b1670c8bcc3210e6d0cc48fcde22[m
+Author: Vasyl Diachok <vdiactc@training.local>
+Date:   Wed Sep 4 20:04:34 2019 +0300
+
+    add 7 line
+
+[33mcommit 69f4514dc68e1a4303eb00ea394d35ec53f56c53[m
+Author: Dmytro Kopytov <dmytrokopytov@gmail.com>
+Date:   Wed Sep 4 20:03:41 2019 +0300
+
+    Add Flat is better than nested
+
+[33mcommit 58638b35a6455e2f41db4840a9a879a993cc89c0[m
+Merge: 014feeb a298f12
+Author: Olesia Falafivka <olesyasenyk@hotmail.com>
+Date:   Wed Sep 4 20:03:38 2019 +0300
+
+    Merge branch 'master' of https://github.com/kolyasalubov/Lv-439.PythonCore
+
+[33mcommit 5810a6375cfeb6de54927d9ea0e6d068ed5275ce[m
+Merge: 4ca7416 a9149d3
+Author: Rostyslav Medvid <rostuk.medvid@gmail.com>
+Date:   Wed Sep 4 20:03:35 2019 +0300
+
+    Merge branch 'master' of https://github.com/kolyasalubov/Lv-439.PythonCore
+
+[33mcommit a9149d370e5144dda684897fadba6d13e44c82b1[m
+Merge: c40d568 04cb0d7
+Author: “Lilia <pyontiklilia98@gmail.com>
+Date:   Wed Sep 4 20:02:36 2019 +0300
+
+    Merge branch 'master' of https://github.com/kolyasalubov/Lv-439.PythonCore
+
+[33mcommit 4ca741608ccfa29c90b0b12488ea51f8d64dd924[m
+Merge: 2ad8ed9 04cb0d7
+Author: Rostyslav Medvid <rostuk.medvid@gmail.com>
+Date:   Wed Sep 4 20:02:31 2019 +0300
+
+    Merge branch 'master' of https://github.com/kolyasalubov/Lv-439.PythonCore
+
+[33mcommit 04cb0d7a0ef93277832f51fdec487d0363598acc[m
+Author: “Taras <zubachyktm@gmail.com>
+Date:   Wed Sep 4 20:01:50 2019 +0300
+
+    Added 3 position
+
+[33mcommit 2ad8ed9e740b1645cd08a3a9ffbcad4f6581677e[m
+Author: Rostyslav Medvid <rostuk.medvid@gmail.com>
+Date:   Wed Sep 4 20:01:20 2019 +0300
+
+    8
+
+[33mcommit 014feebf7fe16b1b9b2944c3d13a74707c395a40[m
+Merge: 8481f7e 7b4eb8f
+Author: Olesia Falafivka <olesyasenyk@hotmail.com>
+Date:   Wed Sep 4 20:01:18 2019 +0300
+
+    Merge branch 'master' of https://github.com/kolyasalubov/Lv-439.PythonCore
+
+[33mcommit 835895d89506426308c47559bb1dfd05e72d8f18[m
+Merge: df74dbd 7b4eb8f
+Author: Denys Fedorovych <d.Fedorovych@gmail.com>
+Date:   Wed Sep 4 20:00:34 2019 +0300
+
+    Added line 4
+
+[33mcommit a298f12eeffa5195ff50e21c2b8056ed026c76b0[m
+Merge: f075488 7b4eb8f
+Author: Orest Kuzymkiv <orest000@gmail.com>
+Date:   Wed Sep 4 20:00:22 2019 +0300
+
+    resolve conflict
+
+[33mcommit f07548897d7222c64126d54d6b1905de9ebc79a4[m
+Author: Orest Kuzymkiv <orest000@gmail.com>
+Date:   Wed Sep 4 19:57:41 2019 +0300
+
+    edit and correct
+
+[33mcommit 8481f7ee438cc794d4ac45429663c97a096d65ae[m
+Author: Olesia Falafivka <olesyasenyk@hotmail.com>
+Date:   Wed Sep 4 19:57:33 2019 +0300
+
+    put line 2 in place
+
+[33mcommit 7b4eb8f1e3c309e136852b237f67407a514b7be4[m
+Merge: 575c2e6 cf4c618
+Author: “Taras <zubachyktm@gmail.com>
+Date:   Wed Sep 4 19:55:37 2019 +0300
+
+    Merge branch 'master' of https://github.com/kolyasalubov/Lv-439.PythonCore
+
+[33mcommit 575c2e61252cb882c9c9764250258ef7439cd69f[m
+Merge: f0770c1 2ab38e0
+Author: “Taras <zubachyktm@gmail.com>
+Date:   Wed Sep 4 19:55:32 2019 +0300
+
+    Added 3 position
+
+[33mcommit c40d568c8840578ce7d74629c25e0ef8c203c677[m
+Merge: 2026c00 2ab38e0
+Author: “Lilia <pyontiklilia98@gmail.com>
+Date:   Wed Sep 4 19:54:28 2019 +0300
+
+    Merge branch 'master' of https://github.com/kolyasalubov/Lv-439.PythonCore
+
+[33mcommit cf4c61872dec3eeb1c1673cb2727e4be2d9d1855[m
+Merge: 5c6c305 2ab38e0
+Author: Olesia Falafivka <olesyasenyk@hotmail.com>
+Date:   Wed Sep 4 19:54:11 2019 +0300
+
+    added first line
+
+[33mcommit 2026c005d2a89ac057c043821bd0cd7401444666[m
+Author: “Lilia <pyontiklilia98@gmail.com>
+Date:   Wed Sep 4 19:53:28 2019 +0300
+
+    add 6 zen
+
+[33mcommit 5c6c305422225a695492bf51057ad00926b3787c[m
+Author: Olesia Falafivka <olesyasenyk@hotmail.com>
+Date:   Wed Sep 4 19:52:55 2019 +0300
+
+    added first line
+
+[33mcommit 2ab38e0c6c52f95803cbfe558dab7f9993c6b871[m
+Merge: 3b2cb27 7e614a4
+Author: Pavlo Samotii <psamotc@training.local>
+Date:   Wed Sep 4 19:51:52 2019 +0300
+
+    Merge branch 'master' of https://github.com/kolyasalubov/Lv-439.PythonCore
+
+[33mcommit df74dbd44d2a490a0d9c2a36a8ce31bb05a61ef0[m
+Author: Denys Fedorovych <d.Fedorovych@gmail.com>
+Date:   Wed Sep 4 19:51:36 2019 +0300
+
+    Add line 4
+
+[33mcommit 3b2cb27d916497b0bf55fce71658b2e9474cb36b[m
+Author: Pavlo Samotii <psamotc@training.local>
+Date:   Wed Sep 4 19:51:23 2019 +0300
+
+    add line 12
+
+[33mcommit f0770c1d9277d7853cfa7b4199baaf932b7e0c93[m
+Author: “Taras <zubachyktm@gmail.com>
+Date:   Wed Sep 4 19:51:17 2019 +0300
+
+    Added 3 position
+
+[33mcommit 7e614a413bd11d39142f1a5958300d86bc2fd30c[m
+Merge: e83b470 a9cc2ae
+Author: Orest Kuzymkiv <orest000@gmail.com>
+Date:   Wed Sep 4 19:48:13 2019 +0300
+
+    Merge branch 'master' of https://github.com/kolyasalubov/Lv-439.PythonCore
+
+[33mcommit e83b470ecff4fe3259c08a34f78489ef53cc8fd7[m
+Author: Orest Kuzymkiv <orest000@gmail.com>
+Date:   Wed Sep 4 19:47:27 2019 +0300
+
+    Explicit is better than implicit.
+
+[33mcommit a9cc2ae8684015f7ba3429a6cba5af367c33979c[m
+Author: bkashyrskyi <bohdan.k@bkashyrskyi.local>
+Date:   Wed Sep 4 19:46:13 2019 +0300
+
+    del Hello
+
+[33mcommit 67b76334b82804f1ead8929c7757cbe7ab6452a8[m
+Author: bkashyrskyi <bohdan.k@bkashyrskyi.local>
+Date:   Wed Sep 4 19:43:52 2019 +0300
+
+    add string 13
+
+[33mcommit 8d4a36d86f49736a52adea9fb782f63fb869dff8[m
+Author: Liubov Koliasa <kolyasa.lubov@gmail.com>
+Date:   Wed Sep 4 19:14:53 2019 +0300
+
+    add Hello
+
+[33mcommit 45cd4fbd14f0b1f40687e5494433d7fd5ebd24f1[m
+Author: kolyasalubov <36229492+kolyasalubov@users.noreply.github.com>
+Date:   Wed Sep 4 19:12:34 2019 +0300
+
+    add line 16
+
+[33mcommit 48e1492a81496b4067a68775050fdfe94432e812[m
+Author: Liubov Koliasa <kolyasa.lubov@gmail.com>
+Date:   Wed Sep 4 19:09:36 2019 +0300
+
+    create Zen.txt
+
+[33mcommit eec248346cd982fed51e79e7eeae53d6d3630588[m
+Author: kolyasalubov <36229492+kolyasalubov@users.noreply.github.com>
+Date:   Wed Sep 4 19:02:52 2019 +0300
+
+    Initial commit
